@@ -1,0 +1,45 @@
+header{
+    border: 2px solid rgb(242, 141, 141);
+    width: 400px;
+    height: 800px;
+    display: flex;
+    background-color: #000000;
+    border-radius: 15px;
+}
+
+.top_logo{
+    display: flex;
+}
+
+.a1{
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    border-radius: 500px;
+}
+.b1{
+    margin: 10px;
+    color: rgb(245, 246, 248);
+
+}
+p{
+    color: azure;
+}
+img{
+    height: 300px;
+    width: 400px;
+}
+h4{
+    color: aliceblue;
+}
+/* .logo{
+   width: 50px;
+   height: 50px;
+} */
+
+.heat-1{
+    color: aliceblue;
+}
+.coment-2{
+    color: aliceblue;
+}
